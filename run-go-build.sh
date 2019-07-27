@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-exec go build
+exec go build src/main/main.go
